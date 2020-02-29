@@ -6,16 +6,8 @@
   "repository": "git://github.com/marcello3d/node-buffalo.git",
   "author": "Marcello Bastéa-Forte <marcello@cellosoft.com> (http://marcello.cellosoft.com/)",
   "main": "buffalo.js",
-  "keywords": [
-    "mongo",
-    "mongodb",
-    "mongo wire protocol",
-    "bson",
-    "binary",
-    "binary json"
-  ],
+  "keywords": ["mongo", "mongodb", "mongo wire protocol", "bson", "binary", "binary json"],
   "dependencies": {
-    "node-stringbuilder": "^2.2.4",
     "tosource": "0.1.1"
   },
   "devDependencies": {
