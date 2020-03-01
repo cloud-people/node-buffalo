@@ -15,9 +15,9 @@
     "binary json"
   ],
   "dependencies": {
-    "js-string-escape": "^1.0.1",
+    "ansi-encode": "^1.0.1",
+    "jsesc": "^2.5.2",
     "node-stringbuilder": "^2.2.4",
-    "printable-characters": "^1.0.42",
     "tosource": "0.1.1"
   },
   "devDependencies": {
