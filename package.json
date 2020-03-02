@@ -15,7 +15,6 @@
     "binary json"
   ],
   "dependencies": {
-    "ansi-encode": "^1.0.1",
     "node-stringbuilder": "^2.2.4",
     "tosource": "0.1.1"
   },
