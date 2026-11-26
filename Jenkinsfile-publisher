@@ -1,5 +1,5 @@
 def project = 'node-buffalo'
-node('jenkins-agent') {
+node('jenkins-agent-24') {
     stage('Checkout the code'){
         dir("${WORKSPACE}/${project}"){
             git(
